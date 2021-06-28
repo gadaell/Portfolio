@@ -1,6 +1,6 @@
 # A'Darius Ellis Portfolio
 
-![Screenshot](./images/screenshot-website.PNG)
+![Screenshot](./assets/images/screenshot-website.PNG)
 
 ## Purpose
 
