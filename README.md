@@ -1,14 +1,15 @@
 # A'Darius Ellis Portfolio
 
+![Screenshot](./images/screenshot-website.PNG)
+
 ## Purpose
 
-This website will explain who is A'Darius Ellis. It will broadcast "Who Am I", my past work experience, my resume, and lastly how to contact me.
+This website will explain who is A'Darius Ellis. It will broadcast "Who Am I", my past work experience with projects,and lastly how to contact me.
 
 ## Challenges I Faced
 
-- placeholder
-- placeholder
-- placeholder
+- One of my biggest issue was setting up flexbox and being able to place certain images in the right location.
+- Another issue I had was get the text to align in the right order. I had a hard issue where my photos were overlapping my wording.
 
 ## Built with
 
@@ -17,7 +18,7 @@ This website will explain who is A'Darius Ellis. It will broadcast "Who Am I", m
 
 ## Website
 
-https://placeholder
+https://gadaell.github.io/Portfolio
 
 ## Contribution
 
