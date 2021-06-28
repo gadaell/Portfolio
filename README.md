@@ -18,7 +18,8 @@ This website will explain who is A'Darius Ellis. It will broadcast "Who Am I", m
 
 ## Website
 
-https://gadaell.github.io/Portfolio
+- https://gadaell.github.io/Portfolio
+- https://github.com/gadaell/Portfolio
 
 ## Contribution
 
